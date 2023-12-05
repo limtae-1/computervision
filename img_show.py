@@ -1,3 +1,4 @@
+#이미지 읽어오기
 import cv2
 
 img_file='c:/Users/user/Desktop/test.jpg'
